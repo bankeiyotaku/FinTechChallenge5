@@ -32,6 +32,7 @@ NASDAQ_API_KEY = "YOURAPIKEY"
 
 
 #Alpaca
+
 ALPACA_ENDPOINT = "https://paper-api.alpaca.markets"
 
 ALPACA_API_KEY = "KEY HERE"
