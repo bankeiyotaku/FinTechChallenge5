@@ -27,12 +27,15 @@ Open financial_planning_tools.ipynb in JupypterLab to review.
 Project directory must include .env file with the following variables.
 
 #Nasdaq
+
 NASDAQ_API_KEY = "YOURAPIKEY"
 
 
 #Alpaca
 ALPACA_ENDPOINT = "https://paper-api.alpaca.markets"
+
 ALPACA_API_KEY = "KEY HERE"
+
 ALPACA_SECRET_KEY = "KEY HERE"
 
 
